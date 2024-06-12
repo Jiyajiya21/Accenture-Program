@@ -1,4 +1,6 @@
-# Introduction:
+# Accenture North America's Data Analytics and Visualization program
+
+## Introduction:
 "Hello everyone, thank you for joining us today. My name is [Your Name], and I'm here to present the findings from our recent data analytics project for Social Buzz. This project was a collaboration between Andrew Fleming, Marcus Rompton, and myself, Jiya Dariyani. Today, I'll be walking you through our analysis, key insights, and the recommended next steps."
 
 ### Slide 1: Project Overview**
