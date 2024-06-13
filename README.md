@@ -2,7 +2,7 @@
 
 ## Introduction:
 "Hello everyone,
-thank you for joining us today. My name is [Your Name], and I'm here to present the findings from our recent data analytics project for Social Buzz. This project was a collaboration between Andrew Fleming, Marcus Rompton, and myself, Jiya Dariyani. Today, I'll be walking you through our analysis, key insights, and the recommended next steps."
+thank you for joining us today. My name is  Jiya dariyani and I'm here to present the findings from our recent data analytics project for Social Buzz. This project was a collaboration between Andrew Fleming, Marcus Rompton, and myself, Jiya Dariyani. Today, I'll walk you through our analysis, key insights, and the recommended next steps."
 
 ### Slide 1: Project Overview**
 "Social Buzz has been experiencing rapid growth, with over 100,000 content posted daily. Our project focused on auditing Big Data, providing recommendations for a potential IPO, and analyzing popular content. We aimed to streamline Social Buzz's content management and enhance user engagement."
